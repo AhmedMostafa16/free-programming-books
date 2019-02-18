@@ -14,11 +14,13 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [Java](#java)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Node.js](#nodejs)
+  * [p5.js](#p5js)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
@@ -125,6 +127,11 @@
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
 
+### Java
+
+* [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
+
+
 ### Javascript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
@@ -157,6 +164,11 @@
 #### Node.js
 
 * [Nodeup](http://nodeup.com) (podcast)
+
+
+#### p5.js
+
+* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (screencast)
 
 
 #### React.js
