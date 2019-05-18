@@ -101,6 +101,7 @@
 ### Git
 
 * [GitMinutes](http://www.gitminutes.com) (podcast)
+* [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
 
 
 ### Golang
@@ -164,6 +165,7 @@
 #### Node.js
 
 * [Nodeup](http://nodeup.com) (podcast)
+* [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) (screencast)
 
 
 #### p5.js
@@ -277,7 +279,6 @@
 
 * [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails) (podcast)
 * [Drifting Ruby](https://www.driftingruby.com) (screencast)
-* [ENVY LABS - Ruby5](https://ruby5.codeschool.com) (podcast)
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)
 * [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)
